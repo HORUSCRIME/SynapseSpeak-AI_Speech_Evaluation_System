@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+sentence-transformers==2.2.2
+language-tool-python==2.7.1
+nltk==3.8.1
+vaderSentiment==3.3.2
+textstat==0.7.3
+python-dotenv==1.0.0
+numpy==1.24.3
+torch==2.1.0
