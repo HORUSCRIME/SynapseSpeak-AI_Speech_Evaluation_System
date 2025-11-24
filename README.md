@@ -7,35 +7,35 @@ A full-stack AI-powered speech evaluation tool that analyzes student self-introd
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue)
 
-## 🌟 Features
+##  Features
 
-- **🎯 Rubric-Based Scoring**: Comprehensive evaluation across 5 major categories
+- ** Rubric-Based Scoring**: Comprehensive evaluation across 5 major categories
   - Content & Structure (40%)
   - Speech Rate (10%)
   - Language & Grammar (20%)
   - Clarity (15%)
   - Engagement (15%)
 
-- **🤖 AI-Powered Analysis**:
+- ** AI-Powered Analysis**:
   - Semantic similarity using Sentence Transformers
   - Grammar checking with LanguageTool
   - Sentiment analysis with VADER
   - Vocabulary richness calculation (TTR)
   - Filler word detection
 
-- **📊 Detailed Feedback**:
+- ** Detailed Feedback**:
   - Overall score and letter grade
   - Criterion-level breakdown
   - Actionable improvement suggestions
   - Advanced metrics and analytics
 
-- **💻 Modern UI**:
+- ** Modern UI**:
   - Responsive design with Tailwind CSS
   - Real-time word count
   - Animated score reveals
   - Color-coded performance indicators
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐         ┌──────────────────┐
@@ -51,7 +51,7 @@ A full-stack AI-powered speech evaluation tool that analyzes student self-introd
               └───────────┘   └─────────────┘   └───────────┘
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -121,7 +121,7 @@ A full-stack AI-powered speech evaluation tool that analyzes student self-introd
 
    Frontend will run at: http://localhost:5173
 
-## 📖 Usage
+##  Usage
 
 1. **Start both backend and frontend servers**
 2. **Open http://localhost:5173 in your browser**
@@ -139,7 +139,7 @@ on weekends. I'm also interested in learning new languages. Thank you for
 listening to my introduction!
 ```
 
-## 🎯 Scoring Rubric
+##  Scoring Rubric
 
 ### Content & Structure (40%)
 - **Salutation Level (5%)**: Appropriate greeting
@@ -164,7 +164,7 @@ listening to my introduction!
 - Sentiment analysis
 - Positivity and enthusiasm scoring
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 NirmannAI/
@@ -190,7 +190,7 @@ NirmannAI/
 └── README.md
 ```
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### POST /api/evaluate
 Evaluate a speech transcript.
@@ -218,7 +218,7 @@ Evaluate a speech transcript.
 ### GET /api/health
 Health check endpoint.
 
-## 🚢 Deployment
+##  Deployment
 
 ### Backend (Railway/Render)
 
@@ -244,7 +244,7 @@ Health check endpoint.
 
 4. Deploy
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **FastAPI**: Modern Python web framework
@@ -262,13 +262,13 @@ Health check endpoint.
 - **Axios**: HTTP client
 - **Lucide React**: Icons
 
-## 📊 Performance
+##  Performance
 
 - **Response Time**: < 5 seconds for typical transcripts
 - **Model Loading**: Cached for subsequent requests
 - **Concurrent Requests**: Supported via FastAPI async
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -277,22 +277,22 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+##  License
 
 MIT License - see LICENSE file for details
 
-## 👥 Authors
+##  Authors
 
-Built with ❤️ for educators and students
+Built with  for educators and students
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Sentence Transformers by UKPLab
 - VADER Sentiment Analysis
 - LanguageTool
 - FastAPI and React communities
 
-## 📞 Support
+##  Support
 
 For issues and questions:
 - Open an issue on GitHub
